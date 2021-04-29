@@ -40,6 +40,19 @@
 		"badge": "digininja/authlab"
 	},
 	{
+		"url": "https://hub.docker.com/r/bwolmarans/badstore",
+		"name": "Badstore",
+		"technology": [
+			"Javascript",
+			"MySql"
+		],
+		"references": [
+		],
+		"author": "Barracuda Networks",
+		"notes": "Mostly original Badstore based on jvanhoof/badstore-docker, starting to refresh this project, but in present form still very valid for OWASP testing.",
+		"badge": "barracudanetworks/badstoreJ"
+	},
+	{
 		"url": "https://github.com/psiinon/bodgeit",
 		"name": "BodgeIt Store",
 		"technology": [
